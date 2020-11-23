@@ -1,6 +1,6 @@
 
 const path = require("path");
-const mainDir = path.join(__dirname, "/public");
+const mainDir = path.join(__dirname, "public");
 
 module.exports = (app) => {
   
